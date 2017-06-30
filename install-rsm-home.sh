@@ -8,14 +8,6 @@ gh_desc="RSM customization"
 cat <<- EOF
 
 
-                    s
-      rrrrrr      sss                      kk   kk   ddddd     eeeeeee
-      rr   rr    ss    ss   ccccc    kk kk     dd   dd   ee
-      rrrrr       sss        cc         kkk       dd   dd   eeeee
-      rr   rr       sss          cc         kk kk     dd   dd   ee
-      rr   rr         ss     ccccc    kk   kk   ddddd     eeeeeee
-                     ss
-
   $gh_desc
   https://github.com/Jacobtey/$gh_repo
 
