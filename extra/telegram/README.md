@@ -14,7 +14,7 @@ Telegram theme for RSM pack
 
 ## RSM Telegram Theme:
 ```
-wget -qO- https://raw.githubusercontent.com/Jacobet/RSM/master/extra/telegram/install-rsm-ttheme.sh | sh
+wget -qO- https://raw.githubusercontent.com/Jacobtey/RSM/master/extra/telegram/install-rsm-ttheme.sh | sh
 
 ```
 
