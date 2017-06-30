@@ -37,8 +37,8 @@ wget -qO- https://raw.githubusercontent.com/Jacobtey/RSM/master/remove-rsm.sh | 
 
 ## Extras
 
-- [Firefox Theme](https://github.com/PapirusDevelopmentTeam/arc-kde/tree/master/extra/firefox) — patch for [Arc Dark Firefox Theme](https://github.com/horst3180/arc-firefox-theme#arc-dark-firefox)
-- [Telegram Themes](https://github.com/PapirusDevelopmentTeam/arc-kde/tree/master/extra/telegram) - Arc KDE & Arc Dark KDE themes for [Telegram](https://desktop.telegram.org)
+- [Firefox Theme](https://github.com/Jacobtey/RSM/tree/master/extra/firefox) 
+- [Telegram Themes](https://github.com/Jacobtey/RSM/tree/master/extra/telegram) - RSM theme for [Telegram](https://desktop.telegram.org)
 
 ## License
 
