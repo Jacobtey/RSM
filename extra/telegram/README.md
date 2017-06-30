@@ -1,6 +1,6 @@
 #  RSM Telegram theme
 
-Telegram themes for RSM pack
+Telegram theme for RSM pack
 
 ![Screenshot RSM](preview-rsm.png)
 
