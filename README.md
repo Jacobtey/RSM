@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/PapirusDevelopmentTeam/arc-kde/master/preview.png" alt="Preview Arc-Dark KDE"/>
+  <img src="https://raw.githubusercontent.com/Jacobtey/RSM/master/preview.png" alt="RSM Preview"/>
 </p>
 
 RSM - This is a set of themes for Plasma 5 desktop with a few additions
