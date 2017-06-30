@@ -1,11 +1,8 @@
-#  Telegram themes Arc & Arc Dark for KDE
+#  RSM Telegram theme
 
-Adapt telegram themes for Arc-KDE pack
+Telegram themes for RSM pack
 
-Source code by [Art-2](http://art-2.deviantart.com/art/Arc-2-theme-for-Telegram-654895946)
-
-![Screenshot arc-dark-kde](preview-arc-dark-kde.png)
-![Screenshot arc-kde](preview-arc-kde.png)
+![Screenshot RSM](preview-rsm.png)
 
 # Dependencies
 
@@ -15,15 +12,9 @@ Source code by [Art-2](http://art-2.deviantart.com/art/Arc-2-theme-for-Telegram-
 
 # Download and Build
 
-## Arc Dark KDE Telegram Theme:
+## RSM Telegram Theme:
 ```
-wget -qO- https://raw.githubusercontent.com/PapirusDevelopmentTeam/arc-kde/master/extra/telegram/install-arc-dark-ttheme.sh | sh
-
-```
-
-## Arc KDE Telegram Theme:
-```
-wget -qO- https://raw.githubusercontent.com/PapirusDevelopmentTeam/arc-kde/master/extra/telegram/install-arc-ttheme.sh | sh
+wget -qO- https://raw.githubusercontent.com/Jacobet/RSM/master/extra/telegram/install-rsm-ttheme.sh | sh
 
 ```
 
