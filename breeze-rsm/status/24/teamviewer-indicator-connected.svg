@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="22"
+   viewBox="0 0 6.208889 6.208889"
+   height="22"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="teamviewer-indicator-connected.svg">
+  <metadata
+     id="metadata14">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs12" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1280"
+     inkscape:window-height="726"
+     id="namedview10"
+     showgrid="false"
+     inkscape:zoom="21.957386"
+     inkscape:cx="11"
+     inkscape:cy="11"
+     inkscape:window-x="0"
+     inkscape:window-y="26"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <g
+     id="g4142"
+     style="fill:#ffffff;fill-opacity:1">
+    <path
+       id="path4"
+       style="fill:#ffffff;fill-opacity:1;stroke:none;fill-rule:evenodd"
+       d="m 1.411 3.104 0.847 -0.847 0 0.564 1.693 0 0 -0.564 0.847 0.847 -0.847 0.847 0 -0.564 -1.693 0 0 0.564 z" />
+    <path
+       id="path6"
+       style="fill:#ffffff;fill-opacity:1;stroke:none;fill-rule:nonzero"
+       d="m 5.599 3.599 0.399 0.399 -1.796 1.796 -1.098 -1.098 0.399 -0.399 0.698 0.698" />
+    <path
+       id="path8"
+       style="visibility:visible;shape-rendering:auto;color-interpolation-filters:linearRGB;fill:#ffffff;opacity:1;image-rendering:auto;fill-opacity:1;stroke:none;display:inline;color:#000;fill-rule:nonzero;color-rendering:auto;color-interpolation:sRGB"
+       solid-color="#000000"
+       solid-opacity="1"
+       white-space="normal"
+       isolation="auto"
+       mix-blend-mode="normal"
+       transform="scale(0.28222222,0.28222222)"
+       d="m 10.996 2 c -4.959 0 -8.996 4.04 -8.996 8.996 c 0 4.959 4.04 9 8.996 9 c 0.393 0 0.777 -0.035 1.156 -0.084 l -1.967 -1.965 c -3.492 -0.401 -6.186 -3.352 -6.186 -6.955 c 0 -3.878 3.118 -6.996 6.996 -6.996 c 3.878 0 7 3.118 7 6.996 c 0 0.584 -0.079 1.148 -0.213 1.689 l 0.988 -0.99 l 1.066 -1.064 l 0.146 0.146 c -0.118 -4.857 -4.107 -8.777 -8.992 -8.777 z" />
+  </g>
+</svg>

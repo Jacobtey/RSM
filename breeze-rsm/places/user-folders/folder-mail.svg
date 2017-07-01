@@ -1,0 +1,17 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<!-- Created using Karbon, part of Calligra: http://www.calligra.org/karbon -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="51.2pt" height="51.2pt">
+<defs/>
+<g id="layer1">
+  <path id="shape0" transform="translate(4.05374, 6.03687)" fill="none" stroke="#696969" stroke-width="0.35433132250" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="0.28346505761" d="M4.98946e-15 0L0 27.0079L55.8807 26.269L55.8807 3.87576L27.8467 3.87576L23.9826 0.000366266C23.9426 0.0411354 15.9484 0.0410133 4.98946e-15 0Z"/>
+  <path id="rect4180" transform="translate(4, 5.9999)" fill="#31363b" stroke="#444b52" stroke-opacity="0.78823529412" stroke-width="0.00000000000" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="0.28346505761" d="M0 0.00023L0 5.00023L0 27.0002C0 27.5539 0.446 28.0002 1 28.0002L55 28.0002C55.554 28.0002 56 27.5539 56 27.0002L56 5.01C56 5.007 55.998 5.004 55.998 5L56 5L56 4L28 4L24 0L0 0Z"/>
+  <path id="rect4113" transform="translate(3, 16.0001)" fill="#444b52" d="M23 0L19 4L0 4L0 5L0.002 5C0.00195 5.004 0 5.008 0 5.0117L0 41L0 42L1 42L57 42L58 42L58 41L58 5.0117L58 5L58 0Z"/>
+  <path id="path4224" transform="translate(3.00001, 16.0001)" fill="#ffffff" fill-opacity="0.23529411765" fill-rule="evenodd" d="M0 4L0 5L20 5L23 0L19 4Z"/>
+  <path id="path4228" transform="translate(4, 16.0001)" fill="#000000" fill-opacity="0.23529411765" fill-rule="evenodd" d="M0 3L0 4L18 4L22 0L16 3Z"/>
+  <path id="path4151-2" transform="translate(3, 57.0001)" fill="#000000" fill-opacity="0.23529411765" d="M0 0L0 1L1 1L57 1L58 1L58 0L57 0L1 0Z"/>
+  <path id="path4196" transform="translate(28, 6.00001)" fill="#ffffff" fill-opacity="0.23529411765" fill-rule="evenodd" d="M0 0L3 5L5 5L32 5L32 4L5 4L4 4Z"/>
+ </g><g id="Новый слой">
+  <path id="path90" transform="translate(22, 29)" fill="#31363b" d="M6.00001e-05 0L6.00001e-05 0.954541L6.00001e-05 14.3183L6.00001e-05 14.7142L6.00001e-05 15.2727L1.00006 15.2727L20 15.2727L20 14.7142L20 14.3183L20 13.3637L20 0L19.9506 0L19 0L1.46267 0L1 0L0 0M1 0.954541L1.0494 0.954541L7.02408 6.65895L1.00007 12.4091L1.00007 0.954541M2.46272 0.954541L17.5374 0.954541L10.0001 8.1493L2.46272 0.954541M18.9508 0.954541L19.0001 0.954541L19.0001 12.4091L12.9761 6.65895L18.9508 0.954541M7.72945 7.33096L9.99878 9.49583L12.2681 7.33096L18.5361 13.314L18.9987 13.7556L18.9987 14.3144L0.998801 14.3144L0.998801 13.7556L1.46146 13.314L7.72945 7.33096"/>
+ </g>
+</svg>

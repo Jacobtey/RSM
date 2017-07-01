@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="128"
+   height="128"
+   id="svg5048"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="shutdown_primary.svgz">
+  <defs
+     id="defs5050">
+    <filter
+       id="filter4004-4"
+       inkscape:label="Colorize"
+       inkscape:menu="Color"
+       inkscape:menu-tooltip="Blend image or object with a flood color and set lightness and contrast"
+       x="0"
+       y="0"
+       width="1"
+       height="1"
+       color-interpolation-filters="sRGB">
+      <feColorMatrix
+         id="feColorMatrix4006-0"
+         values="1"
+         in="SourceGraphic"
+         type="saturate"
+         result="result2" />
+      <feFlood
+         id="feFlood4008-2"
+         flood-color="rgb(250,247,247)"
+         flood-opacity="1"
+         result="result1" />
+      <feBlend
+         id="feBlend4010-1"
+         in2="result2"
+         mode="multiply"
+         in="result1"
+         result="result3" />
+      <feComposite
+         id="feComposite4012-3"
+         in2="SourceGraphic"
+         operator="in"
+         result="result4" />
+    </filter>
+    <style
+       id="current-color-scheme"
+       type="text/css">      .ColorScheme-Text {
+        color:#31363b;
+      }
+      .ColorScheme-Background{
+        color:#eff0f1;
+      }
+      .ColorScheme-ViewText {
+        color:#31363b;
+      }
+      .ColorScheme-ViewBackground{
+        color:#fcfcfc;
+      }
+      .ColorScheme-ViewHover {
+        color:#3daee9;
+      }
+      .ColorScheme-ViewFocus{
+        color:#3daee9;
+      }
+      .ColorScheme-ButtonText {
+        color:#31363b;
+      }
+      .ColorScheme-ButtonBackground{
+        color:#eff0f1;
+      }
+      .ColorScheme-ButtonHover {
+        color:#3daee9;
+      }
+      .ColorScheme-ButtonFocus{
+        color:#3daee9;
+      }</style>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#383838"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.12941176"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.0000001"
+     inkscape:cx="-86.450609"
+     inkscape:cy="37.164681"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:window-width="1366"
+     inkscape:window-height="697"
+     inkscape:window-x="-4"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:snap-bbox="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3001"
+       empspacing="4"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true"
+       color="#0101ff"
+       opacity="0.01960784"
+       empcolor="#0000ff"
+       empopacity="0.03921569" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5053">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-6.129729,-913.75296)">
+    <g
+       id="g4174">
+      <path
+         sodipodi:nodetypes="sscssscssccscsccccccscscccc"
+         inkscape:connector-curvature="0"
+         d="m 70.131619,948.92994 c -0.78832,0 -1.4309,0.64257 -1.4309,1.43089 l 0,6.22814 0,25.18741 c 0,0.78832 0.64258,1.43089 1.4309,1.43089 0.78831,0 1.42711,-0.64257 1.42711,-1.43089 l 0,-25.18741 0,-6.22814 c 0,-0.78832 -0.6388,-1.43089 -1.42711,-1.43089 z m -14.39927,6.25073 c -0.18289,0.031 -0.36115,0.0974 -0.52718,0.20334 -7.7203,4.92693 -12.84411,13.58178 -12.84411,23.42138 0,15.33778 12.43418,27.76921 27.77056,27.77061 15.33635,0 27.76678,-12.43423 27.76678,-27.77061 0,-9.84104 -5.1238,-18.48924 -12.84412,-23.41762 -0.66406,-0.42414 -1.54521,-0.23247 -1.96935,0.43303 -0.15289,0.23849 -0.19959,0.50397 -0.19959,0.76817 0.002,0.46984 0.20705,0.9322 0.63262,1.20497 6.93199,4.42853 11.52618,12.17867 11.52618,21.01146 -0.002,6.88345 -2.7876,13.10598 -7.29752,17.61878 -4.51282,4.51002 -10.73156,7.29382 -17.615,7.29382 -6.88345,0 -13.10221,-2.7838 -17.61501,-7.29382 -4.50994,-4.5128 -7.29753,-10.73533 -7.29753,-17.61878 0,-8.83279 4.59419,-16.58293 11.52619,-21.01146 0.42558,-0.27134 0.63118,-0.73512 0.63261,-1.20496 -0.003,-0.2642 -0.0468,-0.52825 -0.19958,-0.76817 -0.3181,-0.49912 -0.89729,-0.73324 -1.44595,-0.64013 z"
+         id="path4171"
+         style="fill:#f7f7f7;fill-opacity:1" />
+      <path
+         sodipodi:nodetypes="ssssscscsscc"
+         inkscape:connector-curvature="0"
+         id="path4147"
+         d="m 70.129725,917.75297 c -33.004031,0 -59.999998,26.83443 -59.999998,60 0,33.16403 26.836028,60.00003 59.999998,60.00003 33.165595,0 60.000005,-26.9959 60.000005,-60.00004 0,-33.004 -26.83441,-60 -60.000005,-60 z m 0,3.08754 c 31.336675,0 56.912445,25.5758 56.912445,56.91246 l 0,0.002 c 0.15988,31.49793 -25.41147,56.90863 -56.912445,56.90863 -31.499297,0 -56.910509,-25.5722 -56.910509,-56.91057 0,-31.49928 25.572152,-56.91245 56.910509,-56.91245 z"
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#f7f7f7;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<!-- Created using Karbon, part of Calligra: http://www.calligra.org/karbon -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="12.8pt" height="12.8pt">
+<defs/>
+<g id="layer0">
+  <g id="layer1" transform="translate(0.375, 0.375)" fill="none">
+   <path id="rect3352" transform="translate(0.625, 0.625)" fill="#edeff1" fill-rule="evenodd" d="M0 0L0 3L14 3L14 0ZM12.5 1C12.7761 1 13 1.22386 13 1.5C13 1.77614 12.7761 2 12.5 2C12.2239 2 12 1.77614 12 1.5C12 1.22386 12.2239 1 12.5 1Z"/>
+   <rect id="rect4154" transform="matrix(0 1 -1 0 1.625 0.625)" fill="#edeff1" fill-rule="evenodd" width="11.20000000000pt" height="0.80000000000pt"/>
+   <rect id="rect4165" transform="translate(0.625, 13.625)" fill="#edeff1" fill-rule="evenodd" width="11.20000000000pt" height="0.80000000000pt"/>
+   <rect id="rect4176" transform="matrix(0 1 -1 0 14.625 0.625)" fill="#edeff1" fill-rule="evenodd" width="11.20000000000pt" height="0.80000000000pt"/>
+  </g>
+  <path id="rect6749" transform="translate(4, 5)" fill="#edeff1" d="M3 0L3 1.58594L1.87891 0.464844L0.464844 1.87891L1.58594 3L0 3L0 5L1.58594 5L0.464844 6.12109L1.87891 7.53516L3 6.41406L3 8L5 8L5 6.41406L6.12109 7.53516L7.53516 6.12109L6.41406 5L8 5L8 3L6.41406 3L7.53516 1.87891L6.12109 0.464844L5 1.58594L5 0Z"/>
+ </g>
+</svg>

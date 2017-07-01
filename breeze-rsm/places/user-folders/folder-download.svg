@@ -1,0 +1,17 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<!-- Created using Karbon, part of Calligra: http://www.calligra.org/karbon -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="51.2pt" height="51.2pt">
+<defs/>
+<g id="layer1">
+  <path id="shape0" transform="translate(4.05374, 6.03687)" fill="none" stroke="#696969" stroke-width="0.35433132250" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="0.28346505761" d="M4.98946e-15 0L0 27.0079L55.8807 26.269L55.8807 3.87576L27.8467 3.87576L23.9826 0.000366266C23.9426 0.0411354 15.9484 0.0410133 4.98946e-15 0Z"/>
+  <path id="rect4180" transform="translate(4, 5.9999)" fill="#31363b" stroke="#444b52" stroke-opacity="0.78823529412" stroke-width="0.00000000000" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="0.28346505761" d="M0 0.00023L0 5.00023L0 27.0002C0 27.5539 0.446 28.0002 1 28.0002L55 28.0002C55.554 28.0002 56 27.5539 56 27.0002L56 5.01C56 5.007 55.998 5.004 55.998 5L56 5L56 4L28 4L24 0L0 0Z"/>
+  <path id="rect4113" transform="translate(3, 16.0001)" fill="#444b52" d="M23 0L19 4L0 4L0 5L0.002 5C0.00195 5.004 0 5.008 0 5.0117L0 41L0 42L1 42L57 42L58 42L58 41L58 5.0117L58 5L58 0Z"/>
+  <path id="path4224" transform="translate(3.00001, 16.0001)" fill="#ffffff" fill-opacity="0.23529411765" fill-rule="evenodd" d="M0 4L0 5L20 5L23 0L19 4Z"/>
+  <path id="path4228" transform="translate(4, 16.0001)" fill="#000000" fill-opacity="0.23529411765" fill-rule="evenodd" d="M0 3L0 4L18 4L22 0L16 3Z"/>
+  <path id="path4151-2" transform="translate(3, 57.0001)" fill="#000000" fill-opacity="0.23529411765" d="M0 0L0 1L1 1L57 1L58 1L58 0L57 0L1 0Z"/>
+  <path id="path4196" transform="translate(28, 6.00001)" fill="#ffffff" fill-opacity="0.23529411765" fill-rule="evenodd" d="M0 0L3 5L5 5L32 5L32 4L5 4L4 4Z"/>
+ </g><g id="Новый слой">
+  <path id="rect4282" transform="translate(22, 27)" fill="#31363b" d="M7 0L7 1L7 7L8 7L8 1L12 1L12 7L13 7L13 0ZM3.70703 7.30078L3 8.00781L7.29297 12.3008L7.30078 12.293L10.0078 15L12.707 12.3008L17 8.00781L16.293 7.30078L12 11.5937L10 13.5938L8 11.5937ZM0 17L0 19L0 20L1 20L20 20L20 19L20 17L19 17L19 19L1 19L1 17Z"/>
+ </g>
+</svg>
